@@ -3,13 +3,14 @@
 Suivez ce lien Youtube pour savoir comment activer les macro sur votre PC :
 
 [https://www.youtube.com/watch?v=sJUdy6zgrP4](https://www.youtube.com/watch?v=YfcfxJU6Z-g)
-Une fois que vous réussissez a activer les macros dans Excel et à désactiver la sécurité Microsoft, vous verrez seulement deux Onglets actifs dans le fichier Excel. C'est parce que les autre Fichiers sont cachés
+
+Une fois que vous réussissez à activer les macros dans Excel et à désactiver la sécurité Microsoft en suivant le lien ci-dessus, vous verrez seulement deux feuilles actives dans le fichier Excel. C'est parce que les autre feuilles sont cachées pour des raison d'esthétiques et de simplicité.
 
 ![image](https://github.com/user-attachments/assets/5f4dd1a4-4bfc-4a2c-b643-9fcbab4f3bea)
 
 Faites juste un click droit au cas ou vous souhaitez les voir. Cela pourra etre utile si vous avez entré une mauvaise dépense, un mauvais revenu ou une mauvaise épargne.
 
-Les différentes partie de l'outil sont :
+Les différentes parties de l'outil sont :
 
 ## Le Rapport
 Cette partie contient le résumé des entrées et sortie d'argent par mois ainsi que les métriques pertinentes pour le controle des flux financier generaux. 
